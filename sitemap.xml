@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://meteo-hydrodynamics.github.io/</loc>
+  <lastmod>2024-03-09T13:07:17+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://meteo-hydrodynamics.github.io/A-G/</loc>
+  <lastmod>2024-03-09T13:07:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://meteo-hydrodynamics.github.io/H-N/</loc>
+  <lastmod>2024-03-09T13:07:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://meteo-hydrodynamics.github.io/O-Z/</loc>
+  <lastmod>2024-03-09T13:07:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://meteo-hydrodynamics.github.io/Ertel/</loc>
+  <lastmod>2024-03-09T13:07:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://meteo-hydrodynamics.github.io/About/</loc>
+  <lastmod>2024-03-09T13:07:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://meteo-hydrodynamics.github.io/2024/03/08/log.html</loc>
+  <lastmod>2024-03-09T13:07:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://meteo-hydrodynamics.github.io/Archive/V%20Bjerknes%20(1905)%20Tourbillons%20dans%20un%20fluide%20sans%20frottement.pdf</loc>
+  <lastmod>2024-03-09T13:07:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
